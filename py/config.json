@@ -1,0 +1,48 @@
+{
+    "general": {
+        "version": "1.1",
+        "licence_code": "demo"
+    },
+    "binance_pumps": {
+        "api_key": "api_key",
+        "api_secret": "api_secret",
+        "target_coin": "BTC",
+        "use_balance": "%5",
+        "take_profit": "%25",
+        "stop_loss": "-%5",
+        "order_type": "market",
+        "limit_order_dont_buy_after_increase": "%20",
+        "trade_with_real_account": "False"
+    },
+    "buy_with_binance": {
+        "api_key": "api_key",
+        "api_secret": "api_secret",
+        "target_coin": "BTC",
+        "use_balance": "%90",
+        "trade_with_real_account": "True"
+    },
+    "buy_with_okex": {
+        "api_key": "api_key",
+        "api_secret": "api_secret",
+        "target_coin": "BTC",
+        "use_balance": "%90",
+        "trade_with_real_account": "True"
+    },
+    "buy_with_bittrex": {
+        "api_key": "api_key",
+        "api_secret": "api_secret",
+        "target_coin": "BTC",
+        "use_balance": "%90",
+        "trade_with_real_account": "True"
+    },
+    "buy_with_kucoin": {
+        "api_key": "api_key",
+        "api_secret": "api_secret",
+        "target_coin": "BTC",
+        "use_balance": "%90",
+        "trade_with_real_account": "True"
+    },
+    "listings": {
+        "i_couldnt_buy_new_altcoin_buy_it_yourself": "True"
+    }
+}
