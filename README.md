@@ -52,3 +52,9 @@ So it uses cython, core modules, powerfull caching system and much more optimiza
 * Set up all the settings with a single file. 
   
   
+# 💬 Support Chat
+
+Join the telegram [support chat 💬](https://t.me/CoinswapPump) You can access all our announcements here. Coinsw.app Pump Dedector Team!
+
+---
+  
